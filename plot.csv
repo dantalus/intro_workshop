@@ -1,0 +1,95 @@
+"glvef","arm","time","id","demo_age","demo_gender","demo_ht_cm","demo_wt_kg","demo_race"
+41.9,"Arm C (HD)","Baseline",101,63,"Male",172.72,90,0
+33.3,"Arm C (HD)","8 weeks",101,63,"Male",172.72,90,0
+31.1,"Arm B (LD)","Baseline",102,52,"Male",180.34,92.07,0
+31.8,"Arm B (LD)","8 weeks",102,52,"Male",180.34,92.07,0
+31.4,"Arm A (P)","Baseline",103,28,"Male",213,93.34,0
+43.6,"Arm A (P)","8 weeks",103,28,"Male",213,93.34,0
+53.5,"Arm C (HD)","Baseline",104,36,"Male",173.73,76.2,0
+58.4,"Arm C (HD)","8 weeks",104,36,"Male",173.73,76.2,0
+40.7,"Arm A (P)","Baseline",105,55,"Female",163,61,0
+48.3,"Arm A (P)","8 weeks",105,55,"Female",163,61,0
+47.6,"Arm B (LD)","Baseline",106,65,"Male",165,76,0
+61,"Arm B (LD)","8 weeks",106,65,"Male",165,76,0
+47.7,"Arm A (P)","Baseline",107,63,"Male",185,108,0
+46,"Arm A (P)","8 weeks",107,63,"Male",185,108,0
+36.2,"Arm C (HD)","Baseline",108,70,"Male",173,90,0
+NA,"Arm C (HD)","8 weeks",108,70,"Male",173,90,0
+NA,"Arm B (LD)","Baseline",109,48,"Male",173,90,0
+NA,"Arm B (LD)","8 weeks",109,48,"Male",173,90,0
+49.5,"Arm C (HD)","Baseline",110,58,"Male",170,80,0
+55.4,"Arm C (HD)","8 weeks",110,58,"Male",170,80,0
+46.9,"Arm A (P)","Baseline",111,61,"Male",177.8,58,0
+58.4,"Arm A (P)","8 weeks",111,61,"Male",177.8,58,0
+35.1,"Arm A (P)","Baseline",112,45,"Female",160,71.1,0
+40,"Arm A (P)","8 weeks",112,45,"Female",160,71.1,0
+45,"Arm B (LD)","Baseline",113,62,"Male",170,66.7,0
+48.3,"Arm B (LD)","8 weeks",113,62,"Male",170,66.7,0
+NA,"Arm B (LD)","Baseline",114,74,"Male",172,66,0
+58.3,"Arm B (LD)","8 weeks",114,74,"Male",172,66,0
+28.9,"Arm A (P)","Baseline",115,41,"Male",170,64,0
+42.6,"Arm A (P)","8 weeks",115,41,"Male",170,64,0
+NA,"Arm C (HD)","Baseline",116,62,"Male",180,70,0
+NA,"Arm C (HD)","8 weeks",116,62,"Male",180,70,0
+53.2,"Arm B (LD)","Baseline",117,67,"Female",155,59,0
+61.5,"Arm B (LD)","8 weeks",117,67,"Female",155,59,0
+34.7,"Arm C (HD)","Baseline",118,55,"Male",182.9,73,0
+51.5,"Arm C (HD)","8 weeks",118,55,"Male",182.9,73,0
+34.3,"Arm B (LD)","Baseline",120,39,"Male",182,82,0
+34.2,"Arm B (LD)","8 weeks",120,39,"Male",182,82,0
+36.7,"Arm C (HD)","Baseline",121,71,"Male",180,82,0
+46.2,"Arm C (HD)","8 weeks",121,71,"Male",180,82,0
+52.3,"Arm C (HD)","Baseline",122,61,"Female",165,69.8,0
+62.8,"Arm C (HD)","8 weeks",122,61,"Female",165,69.8,0
+24.9,"Arm B (LD)","Baseline",123,69,"Male",183,75,0
+34.9,"Arm B (LD)","8 weeks",123,69,"Male",183,75,0
+32.4,"Arm A (P)","Baseline",124,69,"Male",178,70,0
+41.3,"Arm A (P)","8 weeks",124,69,"Male",178,70,0
+41,"Arm B (LD)","Baseline",125,31,"Male",180.34,80,0
+56.3,"Arm B (LD)","8 weeks",125,31,"Male",180.34,80,0
+36.6,"Arm A (P)","Baseline",126,54,"Female",170,43.5,0
+52.6,"Arm A (P)","8 weeks",126,54,"Female",170,43.5,0
+51.8,"Arm C (HD)","Baseline",127,64,"Male",178,83.8,0
+56.2,"Arm C (HD)","8 weeks",127,64,"Male",178,83.8,0
+27.9,"Arm B (LD)","Baseline",128,39,"Female",152,76,0
+36.1,"Arm B (LD)","8 weeks",128,39,"Female",152,76,0
+48,"Arm A (P)","Baseline",129,63,"Female",167,50.8,0
+40.9,"Arm A (P)","8 weeks",129,63,"Female",167,50.8,0
+49,"Arm C (HD)","Baseline",130,63,"Male",173,76,0
+52.6,"Arm C (HD)","8 weeks",130,63,"Male",173,76,0
+28.7,"Arm A (P)","Baseline",131,53,"Male",183,92,0
+38,"Arm A (P)","8 weeks",131,53,"Male",183,92,0
+46.3,"Arm C (HD)","Baseline",132,74,"Female",163,67.3,0
+50.6,"Arm C (HD)","8 weeks",132,74,"Female",163,67.3,0
+52.9,"Arm B (LD)","Baseline",133,35,"Male",163,91,0
+44.3,"Arm B (LD)","8 weeks",133,35,"Male",163,91,0
+46.4,"Arm C (HD)","Baseline",134,69,"Male",178,80.3,0
+55.8,"Arm C (HD)","8 weeks",134,69,"Male",178,80.3,0
+43,"Arm A (P)","Baseline",135,71,"Male",188,102,0
+43.8,"Arm A (P)","8 weeks",135,71,"Male",188,102,0
+39.2,"Arm B (LD)","Baseline",136,59,"Male",170,71.2,0
+51.9,"Arm B (LD)","8 weeks",136,59,"Male",170,71.2,0
+37.7,"Arm A (P)","Baseline",137,50,"Male",176,70,0
+44.7,"Arm A (P)","8 weeks",137,50,"Male",176,70,0
+NA,"Arm B (LD)","Baseline",138,64,"Male",165,70,4
+26.4,"Arm B (LD)","8 weeks",138,64,"Male",165,70,4
+54.4,"Arm C (HD)","Baseline",139,50,"Male",183,95.6,0
+57.7,"Arm C (HD)","8 weeks",139,50,"Male",183,95.6,0
+44.1,"Arm B (LD)","Baseline",140,51,"Male",170,82.5,0
+54.1,"Arm B (LD)","8 weeks",140,51,"Male",170,82.5,0
+50.7,"Arm A (P)","Baseline",141,71,"Male",167,79,0
+53.3,"Arm A (P)","8 weeks",141,71,"Male",167,79,0
+31.9,"Arm C (HD)","Baseline",142,47,"Male",178,95,0
+36.7,"Arm C (HD)","8 weeks",142,47,"Male",178,95,0
+41.7,"Arm B (LD)","Baseline",143,56,"Female",163,50.8,0
+57.8,"Arm B (LD)","8 weeks",143,56,"Female",163,50.8,0
+35.6,"Arm C (HD)","Baseline",144,41,"Male",176,86.4,0
+32.6,"Arm C (HD)","8 weeks",144,41,"Male",176,86.4,0
+53.2,"Arm B (LD)","Baseline",201,68,"Female",162.02,60.3,0
+69.9,"Arm B (LD)","8 weeks",201,68,"Female",162.02,60.3,0
+43.5,"Arm A (P)","Baseline",202,71,"Male",170.18,83,0
+49.3,"Arm A (P)","8 weeks",202,71,"Male",170.18,83,0
+53.8,"Arm C (HD)","Baseline",203,53,"Male",167,108,0
+53.3,"Arm C (HD)","8 weeks",203,53,"Male",167,108,0
+NA,"Arm A (P)","Baseline",204,54,"Male",170,112,0
+NA,"Arm A (P)","8 weeks",204,54,"Male",170,112,0
